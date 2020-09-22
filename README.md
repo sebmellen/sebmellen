@@ -6,4 +6,6 @@
 
 ### I'm the CEO of [Assembl Inc.](https://assembl.net)
 
-Assembl is a company I founded with the goal of evolving the research process. Assembl builds tools that help to digitize, decentralize, and democratize science. Our Github repository is [here](https://github.com/assemblnetwork), but we don't use Github much.
+Assembl is a company I founded with the goal of evolving the research process. Assembl builds tools that help to digitize, decentralize, and democratize science. Our Github repository is [here](https://github.com/assemblnetwork), but we don't use Github much. 
+
+### *[Find us on BitBucket!](https://bitbucket.org/assemblnetwork/)* 
