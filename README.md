@@ -1,7 +1,7 @@
 ## Pragmatic idealist. Doing my best to solve real problems.
 
 - **Blog:** [blog.slm.space](https://blog.slm.space/)
-- **Website:** [slm.space](https://sebastianmellen.com)
+- **Website:** [sebastianmellen.com](https://sebastianmellen.com)
 - **Email:** [s@slm.space](mailto:s@slm.space)
 
 ### I'm the CEO of [Assembl Inc.](https://assembl.net)
