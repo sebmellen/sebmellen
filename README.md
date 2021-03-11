@@ -4,6 +4,7 @@
 - **Website:** [sebastianmellen.com](https://sebastianmellen.com)
 - **Email:** [s@slm.space](mailto:s@slm.space)
 
-### I'm the CEO of [Assembl Inc.](https://assembl.net)
+### I'm the CEO of [Cerebrum](https://cerebrum.com)
 
+### Formerly CEO of [Assembl](https://assembl.net) (acquired by Cerebrum)
 Assembl is a company I founded with the goal of evolving the research process. Assembl builds tools that help to digitize, decentralize, and democratize science. Our Github repository is [here](https://github.com/assemblinc), but we don't use Github much. 
