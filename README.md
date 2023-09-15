@@ -2,7 +2,7 @@
 
 - **Blog:** [sebastianmellen.com](https://www.sebastianmellen.com/)
 - **Website:** [sebmellen.com](https://sebmellen.com)
-- **Personal Email:** [s@slm.space](mailto:s@slm.space)
+- **Personal Email:** [hello@sebastianmellen.com](mailto:hello@sebastianmellen.com)
 - **Work Email:** [sebastian@cerebrum.com](mailto:sebastian@cerebrum.com)
 
 ### I'm the CEO of [Cerebrum](https://cerebrum.com)
