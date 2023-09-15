@@ -1,7 +1,7 @@
 ## Pragmatic idealist. Doing my best to solve real problems.
 
-- **Blog:** [blog.slm.space](https://blog.slm.space/)
-- **Website:** [sebastianmellen.com](https://sebastianmellen.com)
+- **Blog:** [sebastianmellen.com](https://www.sebastianmellen.com/)
+- **Website:** [sebmellen.com](https://sebmellen.com)
 - **Personal Email:** [s@slm.space](mailto:s@slm.space)
 - **Work Email:** [sebastian@cerebrum.com](mailto:sebastian@cerebrum.com)
 
